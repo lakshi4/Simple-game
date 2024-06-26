@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="score_0">Score : 0</string>
+    <string name="start">Start</string>
+    <string name="guardian_girl">Guardian Girl</string>
+</resources>
